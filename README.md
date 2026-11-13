@@ -12,4 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Roast](https://ghfind.com/api/card/zhaojiale2021?theme=dark)](https://ghfind.com/u/zhaojiale2021?ref=badge)
+<a href="https://ghfind.com/u/zhaojiale2021?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/zhaojiale2021?variant=radar&theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/zhaojiale2021?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
