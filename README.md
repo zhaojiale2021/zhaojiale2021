@@ -1,5 +1,12 @@
 # Alan Zhao
 
+<a href="https://ghfind.com/u/zhaojiale2021?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/zhaojiale2021?variant=radar&theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/zhaojiale2021?variant=radar&theme=light&lang=zh" alt="GitHub Radar 技能雷达图" width="440" />
+  </picture>
+</a>
+
 **嵌入式 / 汽车电子工程师**，关注 AUTOSAR、CAN/CAN FD、DoIP、诊断协议与工程工具链。
 
 - [个人主页](https://zhaojiale2021.github.io/)
